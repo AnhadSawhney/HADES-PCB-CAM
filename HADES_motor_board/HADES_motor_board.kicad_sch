@@ -1,0 +1,45 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "23bb2798-d93a-4696-a962-c305c4298a0c")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 133.35 60.96) (xy 142.24 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23286ed8-1e85-4bf3-b34a-b9a324495bee")
+	)
+	(label "Net0"
+		(at 133.35 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c290f735-9cf0-4c0b-929a-2d7582be9ce3")
+	)
+	(label "Net0"
+		(at 142.24 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eda20711-882d-46c7-9fee-8ea6bdd65b30")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
